@@ -4,8 +4,8 @@
 
 ### snippets list
 
-|  shortcut    | Content                                  |
-| :---------:  | :--------------------------------------- |
+|  shortcut    | Content                                                                                                |
+| :---------:  | :----------------------------------------------------------------------------------------------------- |
 | vue-template | `<template ></template><script></script><style></style>` |
 |    func      | `function(){}`                             |
 |iview-template| `a iview layout` |
@@ -22,12 +22,12 @@
 | iDatepicker  | `<Date-picker type="datetime" format="yyyy/MM/dd HH:mm" placeholder="选择日期和时间"></Date-picker>` |
 |   iUpload    | `<Upload action=""><Button type="ghost" icon="ios-cloud-upload-outline">上传文件</Button></Upload>` |
 |   iModal     | `<Modal v-model="" title=""><p>Content of dialog</p></Modal>` |
-|   iNotice   | `this.$Notice.open('');`                  |
-|   iForm   | `from`                  |
-|   iRadio   | `<Radio v-model=""></Radio>`                  |
-| iRadioGroup  | `<RadioGroup v-model=""><Radio label=""></Radio><Radio label=""></Radio></RadioGroup>`  |
-|   iCheckBox   | `<Checkbox v-model=""></Checkbox>`                  |
-| iCheckBoxGroup | `<CheckBoxGroup v-model=""><Checkbox label=""></Checkbox></CheckBoxGroup>` |
+|    iNotice   | `this.$Notice.open('');`                  |
+|     iForm    | `from`                  |
+|    iRadio    | `<Radio v-model=""></Radio>`                  |
+|  iRadioGroup | `<RadioGroup v-model=""><Radio label=""></Radio><Radio label=""></Radio></RadioGroup>`  |
+|   iCheckBox  | `<Checkbox v-model=""></Checkbox>`                  |
+|iCheckBoxGroup| `<CheckBoxGroup v-model=""><Checkbox label=""></Checkbox></CheckBoxGroup>` |
 |  iDataSelect | `<DataSelect v-model="" placeholder=""></DataSelect>` |
 |   iFormItem  | `<FormItem label='' prop=''></FormItem>` |
 | iModalFooter | `<div slot='footer'><Button type='primary' @click=''>ok</Button><Button @click=''>cancel</Button></div>` |
