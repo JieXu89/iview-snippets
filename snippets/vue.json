@@ -28,7 +28,7 @@
             "\t\twatch: {",
             "\t\t\t$0",
             "\t\t},",
-            "\t\tmethod: {",
+            "\t\tmethods: {",
             "\t\t\t$0",
             "\t\t},",
             "\t}",
